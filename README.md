@@ -2,7 +2,7 @@
 
 Professor at the University of Electronic Science and Technology of China (UESTC). My research focuses on Unpiggable Pipeline In-Line Inspection, physical AI, multi-physics sensing, instrumentation and systems for nondestructive testing.
 
-电子科技大学教授，研究方向包括物理人工智能、多物理场感知、无损检测仪器与系统。
+电子科技大学教授，研究方向包括非常规管道内检测、物理人工智能、多物理场感知、无损检测仪器与系统。
 
 ## Featured open research
 
