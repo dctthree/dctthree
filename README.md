@@ -22,7 +22,8 @@ A traceable research platform built from real four-point-bending pull-test exper
 The P110 and 406-mm campaigns are kept as separate measurement contracts. The public evidence supports traceable feature/stage analysis; it does not claim a universally transferable absolute-stress model for unseen pipes without pipe-specific calibration and external validation.
 
 ## Publications and applied systems
-
+- Unpiggable Pipeline In-Line Inspection (ILI) Solutions | PIGPROX https://www.pigprox.com/index.html
+- 86+ Inspection Systems | 500+ Pipelines | 5,500+ km | 1.2M+ Defects Detected | Φ108–Φ711 mm | CNPC & Sinopec | 1.5D bend 
 - [Selected publications / 代表性论文](https://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm)
 - [Related electromagnetic and pipeline-inspection papers](https://github.com/dctthree/pipe-stress-data-platform/blob/main/docs/RELATED_PUBLICATIONS.md)
 - [PIGPROX product materials](https://github.com/dctthree/pipe-stress-data-platform/releases/tag/product-materials-2026-08)
